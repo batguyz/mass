@@ -1,0 +1,53 @@
+[{
+        "id": "0",
+        "name": "Majestic resturant",
+        "location": "Downtown Ottawa",
+        "time": "3:00pm - 8:00pm",
+        "serve": "American, Greek",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "heading": "My name is Shane and I love me some donut looking girls",
+        "photo": "http://www.postathon.com/wp-content/uploads/2016/05/restaurant.jpg"
+       
+    }, {
+        "id": "1",
+        "name": "Montreal Chompers",
+        "location": "Toronto",
+        "heading": "Catch me if you can and I will make you happy",
+        "time": "6:00am - :600pm",
+        "serve": "American",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "photo": "https://www.omnihotels.com/-/media/images/hotels/homrst/restaurants/homrst-omni-homestead-resort-jeffersons-restaurant-2.jpg"
+
+    }, {
+        "id": "2",
+        "name": "Mr. Biggs",
+        "location": "Downtown Montreal",
+        "time": "6:00am - :600pm",
+        "serve": "American, Asian",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "photo": "http://www.nandos.com/sites/all/themes/nandos/images/restaurants/restaurant-carousel-1.jpg"
+       
+    }, {
+        "id": "3",
+        "name": "Sushi House",
+        "location": "Smithfalls",
+        "time": "6:00am - :600pm",
+        "serve": "Greek, Asian",
+        "food2":"Asian",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "photo": "http://img2.10bestmedia.com/static/img/placeholder-restaurants.jpg"
+
+    },
+ {
+        "id": "3",
+        "name": "Chicken House",
+        "location": "Toronto",
+        "time": "6:00am - :600pm",
+        "serve": "Greek, Asian< American",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "photo": "http://img2.10bestmedia.com/Images/Photos/136146/Decor_54_990x660_201404221708.jpg"
+
+    }
+
+
+]
